@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuna Han</h1>
-<p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="91px"></h2> 
+<p align="center"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="91px"></h2> 
+
 - 👀 I’m interested in 
 with culture, art, ideas. I like to get to know people, but more to eat. I like to system build excessively, system system system.
 - 🌱 I’m currently learning  phyton for data scinece
