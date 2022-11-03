@@ -7,7 +7,16 @@ smart and intelligent people, companies, formations
 - 📫 How to reach me?  via mail tunahanozdogan@gmail.com
 
 
-
+h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tunahanozdogan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tunahanozdogan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20409166" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="20409166" height="30" width="40" /></a>
+<a href="https://kaggle.com/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tunahanozdogan" height="30" width="40" /></a>
+<a href="https://fb.com/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tunahanozdogan" height="30" width="40" /></a>
+<a href="https://instagram.com/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tunahanozdogan" height="30" width="40" /></a>
+<a href="https://medium.com/@tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="tunahanozdogan" height="30" width="40" /></a>
+</p>
 
 
 
