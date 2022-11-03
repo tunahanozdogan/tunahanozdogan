@@ -7,7 +7,7 @@ smart and intelligent people, companies, formations
 - 📫 How to reach me?  via mail tunahanozdogan@gmail.com
 
 
-h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tunahanozdogan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tunahanozdogan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tunahanozdogan" height="30" width="40" /></a>
@@ -50,6 +50,8 @@ h3 align="left">Connect with me:</h3>
 
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunahanozdogan&show_icons=true&locale=en&layout=compact" alt="tunahanozdogan" /> </p>
 
 
 
