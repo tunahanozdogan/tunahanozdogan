@@ -1,4 +1,5 @@
-- Hi, I’m @tunahanozdogan, i am human.
+<h1 align="center">Hi 👋, I'm Tuna Han</h1>
+<p align="middle"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="91px"></h2> 
 - 👀 I’m interested in 
 with culture, art, ideas. I like to get to know people, but more to eat. I like to system build excessively, system system system.
 - 🌱 I’m currently learning  phyton for data scinece
@@ -51,7 +52,7 @@ smart and intelligent people, companies, formations
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tunahanozdogan&show_icons=true&locale=en&layout=compact" alt="tunahanozdogan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tunahanozdogan&show_icons=true&locale=en&layout=compact" alt="tunahanozdogan" /> </p>
 
 
 
