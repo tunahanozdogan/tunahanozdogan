@@ -59,6 +59,9 @@ smart and intelligent people, companies, formations
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tunahanozdogan&show_icons=true&locale=en&layout=compact" alt="tunahanozdogan" /></p>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tunahanozdogan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/tunahanozdogan?trk=profile-badge">Tunahan özdoğan</a></div>
+              
+              
 <!---
 tunahanozdogan/tunahanozdogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
