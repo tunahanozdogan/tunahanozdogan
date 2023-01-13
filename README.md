@@ -53,7 +53,7 @@ smart and intelligent people, companies, formations
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tunahanozdogan&show_icons=true&locale=en&layout=compact" alt="tunahanozdogan" /> </p>
+
 
 
 
